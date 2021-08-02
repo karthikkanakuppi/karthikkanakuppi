@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Karthik K M
+- 👋 Hi, I’m Karthik K M
 - 👀 I’m interested in Analog Electronics,Networking and IoT
 - 🌱 I’m currently pursing B.E. in Electronics and Communication branch
 
-- 📫 How to reach me 
+- 📫 How to reach me ->
   Email : kartzkanakuppi@gmail.com
 
 <!---
