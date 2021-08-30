@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik K M
-- 👀 I’m interested in Analog Electronics,Networking and IoT
+- 👀 I’m interested in Analog electronics,Networking,IoT and Programming
 - 🌱 I’m currently pursing B.E. in Electronics and Communication branch
 
 - 📫 How to reach me ->
